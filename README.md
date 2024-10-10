@@ -2,7 +2,7 @@
 
 ## block_country.py
 
-uses ipset and ip(6)tables to block country ip ranges
+uses ipset and ip(6)tables to block incoming traffic from country ip ranges
 
 example:
 ```sh
